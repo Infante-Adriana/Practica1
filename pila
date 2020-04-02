@@ -1,10 +1,10 @@
 
-package practica1;
+package Practica1;
 
 import java.util.Scanner;
 
 
-public class practica1 {
+public class Practica1 {
    
    
     public static void main(String[] args) {
