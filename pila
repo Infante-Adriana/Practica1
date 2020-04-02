@@ -1,10 +1,10 @@
 
-package abecedario;
+package practica1;
 
 import java.util.Scanner;
 
 
-public class Abecedario {
+public class practica1 {
    
    
     public static void main(String[] args) {
